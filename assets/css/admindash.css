@@ -1,0 +1,7 @@
+.grow {
+    flex: 1;
+}
+
+.main {
+    overflow-y: auto;
+}
